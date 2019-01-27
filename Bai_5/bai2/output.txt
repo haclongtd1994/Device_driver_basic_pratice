@@ -1,3 +1,1 @@
- 5829 ./main
- 5833 sh -c ps -e -opid,command | grep ./main > output.txt
- 5835 grep ./main
+32192 grep --color=auto ./main
